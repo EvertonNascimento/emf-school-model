@@ -1,0 +1,14 @@
+*.class
+bin/
+*~
+logs.zip
+*.orig
+*.java._trace
+*.smap
+
+# for Maven builds
+target
+
+# for Gradle builds
+build
+.gradle
